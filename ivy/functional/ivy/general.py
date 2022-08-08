@@ -1905,7 +1905,7 @@ def get_min_denominator() -> float:
     """Get the global minimum denominator used by ivy for numerically stable division.
 
     .. note::
-        Default value is 1e-12.
+        Default value is 1e-12
 
     Returns
     -------
